@@ -14,21 +14,17 @@ Go to "Operations"
 
 paste this:
 
-{
-
+`
+{ 
   book {
-
     title
-
     author {
-
       name
-
+      }
     }
-
-  }
-
 }
+`
+
 
 ### Note:
 
